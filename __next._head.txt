@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[71994,["/hbpu-campus-nav/_next/static/chunks/50cd5ece12d93a1d.js"],"ViewportBoundary"]
+3:I[71994,["/hbpu-campus-nav/_next/static/chunks/50cd5ece12d93a1d.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"wDSRuaz869trm2ExCCtqk","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"湖北理工学院校园导航"}],["$","meta","1",{"name":"description","content":"湖北理工学院校园导航系统"}]]}]}]}],null]}],"loading":null,"isPartial":false}
