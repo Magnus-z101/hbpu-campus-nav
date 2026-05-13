@@ -4,7 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  assetPrefix: './',
+  basePath: '/hbpu-campus-nav',
+  assetPrefix: '/hbpu-campus-nav/',
   trailingSlash: true,
 }
 
